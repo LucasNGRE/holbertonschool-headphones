@@ -2,11 +2,11 @@
 
 
 
-✨ Projet : Recréation d'une Page Web Responsive ✨
+## ✨ Projet : Recréation d'une Page Web Responsive ✨
 
 Ce projet consiste à recréer une page web full responsive en HTML et CSS à partir d'une maquette Figma.
 
-📚 Objectifs
+## 📚 Objectifs
 
 Reproduire fidèlement la maquette fournie.
 
@@ -16,7 +16,7 @@ Assurer la responsivité totale du site (desktop, tablette, mobile).
 
 Utiliser Flexbox et/ou CSS Grid pour la mise en page.
 
-🛠ï Technologies Utilisées
+## 🛠ï Technologies Utilisées
 
 HTML5 🌟
 
@@ -24,7 +24,7 @@ CSS3 (Flexbox, Grid, Media Queries) 🌟
 
 Figma (pour la maquette) 🖼️
 
-📅 Instructions d'Installation
+## 📅 Instructions d'Installation
 
 Cloner le projet :
 
@@ -36,8 +36,13 @@ cd nom-du-repo
 
 Ouvrir index.html dans un navigateur 🌐
 
+## 🌟 Aperçu
+![alt text](image.png)
+![alt text](image-1.png)
+![alt text](image-2.png)
+![alt text](image-3.png)
 
-📖 Structure du Projet
+## 📖 Structure du Projet
 
 /nom-du-repo
 ├── index.html  # Page principale
