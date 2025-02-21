@@ -42,17 +42,8 @@ Ouvrir index.html dans un navigateur 🌐
 ![alt text](image-2.png)
 ![alt text](image-3.png)
 
-## 📖 Structure du Projet
 
-/nom-du-repo
-├── index.html  # Page principale
-├── styles/
-│   ├── style.css  # Styles globaux
-│   ├── responsive.css  # Media Queries
-├── images/  # Ressources graphiques
-├── README.md  # Documentation du projet
-
-💪 Challenges et Apprentissage
+## 💪 Challenges et Apprentissage
 
 ✅ Comprendre et utiliser Figma pour le design.
 
@@ -62,7 +53,7 @@ Ouvrir index.html dans un navigateur 🌐
 
 ✅ Respecter les bonnes pratiques de code en HTML/CSS.
 
-🏆 Auteur
+## 🏆 Auteur
 
 Lucas NEGRE
 
